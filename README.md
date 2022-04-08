@@ -4,5 +4,12 @@
 > - No 'company policy rules' to comply with
 > - You own your data
 > - Privacy & Security first
-> - Open
+> - Open & extensible  
+> ..
+
+
+
+
+
+this will be just the first application built around a completely new iNET paradigm ..
  
