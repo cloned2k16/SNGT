@@ -8,10 +8,25 @@
 > - You always own your data and only you decide who what and when you share ..
 > -
 
-
-
 this will be just the first application   
  built around a completely new iNET paradigm ..
+
+#### How it works ..
+well, despite may seems a much too ambitious project  
+it's actually not .. and  
+despite may seems to be way too complex to afford without huge investments   
+can be done by just using common internet protocols in place for decades  
+in a different architectural paradigm ..  
+and scale it up on the run  without worry too much about scalability at any point ..  
+( no cloud bulshit either .. )
+
+the key is actually
+only about the architecture and strategy of said system  
+which can be defined simplistically  
+(and to give an idea of it) as  
+P2MPN (point to multipoint network)
+  
+<hr>  
 
 ###### any help is welcome and will be rewarded ..
  
