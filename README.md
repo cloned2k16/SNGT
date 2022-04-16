@@ -36,8 +36,8 @@ P2MPN (point to multipoint network)
 >- **NO CONTROL**  
    none of our business to replace police work ..  
 >- **DECENTRALIZED**  
-   serverless is on hype now but make confusion with cloud,  
-   computing and we are inspired by the very principle of original iNET instead  
+   serverless is on hype now but make confusion with cloud computing  
+   while 'we' are inspired by the very principle of original iNET instead  
    so decentralized means just that, which BTW is a garantee we have no control over you ..  
    
 >- 
