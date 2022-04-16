@@ -34,7 +34,7 @@ P2MPN (point to multipoint network)
    you are not the product, and monetization must be made under strictly fair play,  
    aside your data is your!! no matter what ..
 >- **NO CONTROL**  
-   none of our business to replace police work ..  
+   it's none of our business to replace police work ..  
 >- **DECENTRALIZED**  
    serverless is on hype now but make confusion with cloud computing  
    while 'we' are inspired by the very principle of original iNET instead  
