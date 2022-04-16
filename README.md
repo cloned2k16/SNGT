@@ -5,7 +5,7 @@
 > - Open & Extensible  
 > - Flexible & Resilient
 > - No 'company policy rules' to comply with
-> - You always own your data and only you decide who what and when you share ..
+> - You always own your data and only you decide what, when and to who you share it ..
 > -
 
 this will be just the first application   
@@ -27,13 +27,15 @@ which can be defined simplistically
 P2MPN (point to multipoint network)
   
 #### 'Company' Vision Statement ..
->- NO MONOPOLY  
+>- **NO MONOPOLY**    
    ( no social platform on iNET should be alowed to have full control of it,  
      just like nobody can monopolize telephones or whatever public communication infrastructure & tools )
->- PRIVACY
-   you are not the product, and monetization should be made under strictly fair play,
+>- **PRIVACY**  
+   you are not the product, and monetization must be made under strictly fair play,  
    aside your data is your!! no matter what ..
-
+>- **NO CONTROL**  
+   none of our business to replace police work ..
+>>- 
 <hr/>  
 
 <hr>  
