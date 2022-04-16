@@ -26,6 +26,16 @@ which can be defined simplistically
 (and to give an idea of it) as  
 P2MPN (point to multipoint network)
   
+#### 'Company' Vision Statement ..
+>- NO MONOPOLY  
+   ( no social platform on iNET should be alowed to have full control of it,  
+     just like nobody can monopolize telephones or whatever public communication infrastructure & tools )
+>- PRIVACY
+   you are not the product, and monetization should be made under strictly fair play,
+   aside your data is your!! no matter what ..
+
+<hr/>  
+
 <hr>  
 
 ###### any help is welcome and will be rewarded ..
