@@ -42,7 +42,7 @@ P2MPN (point to multipoint network)
    
 >- 
 <hr/>  
-entry page goes here .. https://www.sngt.online/
+entry page goes here .. https://sngt.online/
 <hr>  
 
 ###### any help is welcome and will be rewarded ..
