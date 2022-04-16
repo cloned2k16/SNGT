@@ -28,11 +28,12 @@ P2MPN (point to multipoint network)
   
 #### 'Company' Vision Statement ..
 >- **NO MONOPOLY**    
-   ( no social platform on iNET should be alowed to have full control of it,  
-     just like nobody can monopolize telephones or whatever public communication infrastructure & tools )
+   no social platform on iNET should be alowed to have full control of itself,  
+   just like nobody can monopolize telephones or whatever public communication infrastructure & tools 
 >- **PRIVACY**  
-   you are not the product, and monetization must be made under strictly fair play,  
-   aside your data is your!! no matter what ..
+   you are not the product, and the monetization must be done under strict conditions of fair play,  
+   (seems obvious , while obviously is not today)  
+   aside, your data is yours!! and forever , no matter what ..  
 >- **NO CONTROL**  
    it's none of our business to replace police work ..  
 >- **DECENTRALIZED**  
