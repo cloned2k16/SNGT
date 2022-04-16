@@ -41,9 +41,9 @@ P2MPN (point to multipoint network)
    so decentralized means just that, which BTW is a garantee we have no control over you ..  
    
 >- 
-<hr/>  
-entry page goes here .. https://sngt.online/
-<hr>  
+* * *
+entry page goes here ..  
+[SNGT.online](https://www.sngt.online/)
 
 ###### any help is welcome and will be rewarded ..
  
